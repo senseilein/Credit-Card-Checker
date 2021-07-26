@@ -29,3 +29,7 @@ The company that you work for suspects that credit card distributors have been m
 1. Use different credit card numbers from [a credit card number generator and validator site](https://www.freeformatter.com/credit-card-number-generator-validator.html) and test if your functions work for all types of credit cards.  
 2. To make it easier to test credit card numbers, create a function that accepts a string and converts it into an array of numbers like the initially provided arrays.
 (I created the **`stringToArrayOfNum()`** function )
+
+-------
+
+![Credit-card-checker-snippet](https://user-images.githubusercontent.com/73607360/127008728-7b2a72de-1d1d-4b0a-8355-417efc917e3f.PNG)
